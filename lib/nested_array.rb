@@ -35,7 +35,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  CONVENTIONAL_PRODUCE[1]
+  assembled_matrix[1][1]
   
 end
 
