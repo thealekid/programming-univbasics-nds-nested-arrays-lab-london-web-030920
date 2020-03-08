@@ -16,7 +16,8 @@ def sorted_matrix
   
   storage_room = [
     CONVENTIONAL_PRODUCE.sort, 
-    ORGANIC_PRODUCE.sort]
+    ORGANIC_PRODUCE.sort
+  ]
   
 end
 
