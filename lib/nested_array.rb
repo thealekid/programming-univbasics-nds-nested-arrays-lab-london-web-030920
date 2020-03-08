@@ -23,7 +23,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  assembled_matrix[1][3]
+  assembled_matrix[row][column]
 
 end
 
