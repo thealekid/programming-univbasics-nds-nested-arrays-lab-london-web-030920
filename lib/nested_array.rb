@@ -23,7 +23,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-assembled_matrix[storage_room][1][1]
+matrix][row]column]
   
 end
 
