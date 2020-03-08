@@ -23,7 +23,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  ORGANIC_PRODUCE[1]
+  ORGANIC_PRODUCE[0][1]
   
 end
 
