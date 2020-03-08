@@ -23,7 +23,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  ORGANIC_PRODUCE[0][1]
+  storage_room[0][1]
   
 end
 
