@@ -35,7 +35,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  assembled_matrix[0][1]
+  ORGANIC_PRODUCE[1]
   
 end
 
