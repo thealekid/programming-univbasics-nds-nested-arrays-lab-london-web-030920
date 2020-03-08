@@ -23,7 +23,14 @@ end
 
 def matrix_lookup(matrix, row, column)
   
- assembled_matrix(storage_room)[1][1]
+  storage_room = [
+    
+  ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
+  ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"]
+
+]
+    
+ storage_room[1][1]
   
 end
 
